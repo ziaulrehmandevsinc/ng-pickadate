@@ -1,19 +1,19 @@
 {
-  "name": "ng-pickadate",
+  "name": "zz-pickadate",
   "description": "AngularJS directives for pickadate.js",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "authors": [
-    "Rémi Alvergnat <toilal.dev@gmail.com> (http://www.pragmasphere.com)"
+    "Zia Ul Rehman Mughal <ziaulrehman@devsinc.com>"
   ],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Toilal/ng-pickadate.git"
+    "url": "https://github.com/ziaulrehmandevsinc/ng-pickadate"
   },
   "ignore": [],
   "dependencies": {
-    "angular": "~1.4.5",
-    "pickadate": "~3.5.6"
+    "angular": ">=1.4.5 <2",
+    "pickadate": "~4.0.0"
   },
   "main": "ng-pickadate.js",
   "overrides": {
