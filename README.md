@@ -24,7 +24,7 @@ Only updated angular requirement to be >=1.4.5 <2, and pickadate.js to 4.0.0, ho
 
 1. Install dependency using bower
 
-        bower install ng-pickadate --save
+        bower install zz-pickadate --save
     
 2. Set `overrides` property in bower.json to register pickadate CSS files
 
