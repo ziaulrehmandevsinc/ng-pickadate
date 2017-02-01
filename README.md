@@ -9,6 +9,11 @@ AngularJS directives for [pickadate.js](http://amsul.ca/pickadate.js/).
 
 [http://toilal.github.io/ng-pickadate/](http://toilal.github.io/ng-pickadate/)
 
+###Changes
+
+Only updated angular requirement to be >=1.4.5 <2, and pickadate.js to 4.0.0, hope it works :)
+
+
 ### Requirements
 
 - [AngularJS](https://angularjs.org/)
